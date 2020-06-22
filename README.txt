@@ -1,8 +1,3 @@
-Thesis Titled : Dynamic Routing Agreement Based Capsule Network Architecture 
-Submited by : Eashan Dash, CED15I043
-Guide : Dr. B. Sivaselvan 
-
-Program - Capsule network vs CNN performance comparison 
 
 Commands to run the program : 
 
